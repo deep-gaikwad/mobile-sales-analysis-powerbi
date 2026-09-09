@@ -153,7 +153,11 @@ This project demonstrates practical knowledge of:
 
 **Deep Gaikwad**
 
-Aspiring Data Analyst
+🔗 GitHub: https://github.com/deep-gaikwad
+
+🔗 LinkedIn: https://www.linkedin.com/in/deepgaikwad/
+
+---
 
 **Skills:**  
 Excel | SQL | Python | Power BI | Data Analysis
