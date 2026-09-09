@@ -90,11 +90,11 @@ A dedicated **Project Information** page provides an overview of the project, in
 
 ### 📱 Mobile Sales Dashboard
 
-![Mobile Sales Dashboard](image/mobile-sales-dashboard.png)
+![Mobile Sales Dashboard](Image/mobile-sales-dashboard.png)
 
 ### 📋 Project Information
 
-![Project Information](image/mobile-sales-project-info.png)
+![Project Information](Image/mobile-sales-project-info.png)
 
 ---
 
