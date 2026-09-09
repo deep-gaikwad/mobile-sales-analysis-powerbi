@@ -172,4 +172,4 @@ It highlights practical skills in data preparation, analysis, visualization, das
 
 Thank you for visiting this project! ⭐
 
-If you find this project useful, feel free to explore the repository.
+⭐ If you find this project useful, feel free to star the repository!
